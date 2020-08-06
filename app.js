@@ -4,16 +4,15 @@
 ///Edit Under This
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAnPYgE3iikWDwkVxMxQTDIfRi90MFr1Qc",
-  authDomain: "instagram-followers-and-likes.firebaseapp.com",
-  databaseURL: "https://instagram-followers-and-likes.firebaseio.com",
-  projectId: "instagram-followers-and-likes",
-  storageBucket: "instagram-followers-and-likes.appspot.com",
-  messagingSenderId: "7046317116",
-  appId: "1:7046317116:web:db2ec1fdbe57399a07af39",
-  measurementId: "G-MMEXDBZNB7"
+  apiKey: "AIzaSyAyLHxjpk7l1jnJ88MKgff7tDu967xwZWk",
+  authDomain: "instagram-quiz-ea8c8.firebaseapp.com",
+  databaseURL: "https://instagram-quiz-ea8c8.firebaseio.com",
+  projectId: "instagram-quiz-ea8c8",
+  storageBucket: "instagram-quiz-ea8c8.appspot.com",
+  messagingSenderId: "392088612245",
+  appId: "1:392088612245:web:46087ab5ccd6bd13d61a9c",
+  measurementId: "G-YS28X7P1F8"
 };
-
      
  
 ////Do Not Edit Below This
